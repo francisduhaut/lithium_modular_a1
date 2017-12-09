@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><Graphics_Resource_Converter>
+<Configuration>
+<major>3</major>
+<minor>28</minor>
+<compiler>C32/XC32</compiler>
+<format>CArray</format>
+<graphics_module>false</graphics_module>
+<bitmap_padding_type>padding</bitmap_padding_type>
+<graphics_model>24 bpp</graphics_model>
+</Configuration>
+<Font_Files>
+<Font_File_Resource>
+<label>Font_Menu</label>
+<path>HelveticaNeue-Medium.ttf</path>
+<name>Helvetica Neue</name>
+<size>16</size>
+<height>20</height>
+<bold>true</bold>
+<anti_aliasing>2 bits per pixel</anti_aliasing>
+<first_character>32</first_character>
+<last_character>126</last_character>
+<font_filter>None</font_filter>
+</Font_File_Resource>
+<Font_File_Resource>
+<label>Font_UniBold</label>
+<path>unispace bd.ttf</path>
+<name>Unispace</name>
+<size>40</size>
+<height>49</height>
+<bold>true</bold>
+<anti_aliasing>2 bits per pixel</anti_aliasing>
+<first_character>32</first_character>
+<last_character>126</last_character>
+<font_filter>None</font_filter>
+</Font_File_Resource>
+<Font_File_Resource>
+<label>Font_Inst</label>
+<path>Instruction.ttf</path>
+<name>Instruction</name>
+<size>19</size>
+<height>26</height>
+<bold>true</bold>
+<anti_aliasing>2 bits per pixel</anti_aliasing>
+<first_character>32</first_character>
+<last_character>126</last_character>
+<font_filter>None</font_filter>
+</Font_File_Resource>
+<Font_File_Resource>
+<label>Font_SvBold</label>
+<path>SVBasicManual-Bold.ttf</path>
+<name>SV Basic Manual</name>
+<size>16</size>
+<height>16</height>
+<bold>true</bold>
+<anti_aliasing>2 bits per pixel</anti_aliasing>
+<first_character>32</first_character>
+<last_character>126</last_character>
+<font_filter>None</font_filter>
+</Font_File_Resource>
+<Font_File_Resource>
+<label>Font_Menu2</label>
+<path>HDZB_36.TTF</path>
+<name>&#18529;&#28228;&#26990;&#26413;&#17235;&#11590;&#28526;&#29811;</name>
+<size>20</size>
+<height>24</height>
+<anti_aliasing>2 bits per pixel</anti_aliasing>
+<first_character>9472</first_character>
+<last_character>9599</last_character>
+<font_filter>None</font_filter>
+</Font_File_Resource>
+</Font_Files>
+</Graphics_Resource_Converter>

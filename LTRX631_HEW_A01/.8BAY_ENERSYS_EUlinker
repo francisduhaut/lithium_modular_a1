@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.renesas.linkersection.model:SectionContainer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.renesas.linkersection.model="http:///LinkerSection.ecore">
+  <sections name="B*">
+    <sectionAddress xsi:type="com.renesas.linkersection.model:FixedAddress" fixedAddress="4096"/>
+  </sections>
+  <sections name="R"/>
+  <sections name="R_2"/>
+  <sections name="R_1"/>
+  <sections name="R_usblib"/>
+  <sections name="R_hcd"/>
+  <sections name="R_pcd"/>
+  <sections name="R_descriptor"/>
+  <sections name="R_hub"/>
+  <sections name="R_hmsc"/>
+  <sections name="R_eletest"/>
+  <sections name="R_smpl"/>
+  <sections name="R_Dummy"/>
+  <sections name="R_testdata"/>
+  <sections name="R_schedule"/>
+  <sections name="R_rx_rsk"/>
+  <sections name="R_ansi"/>
+  <sections name="SI"/>
+  <sections name="SU"/>
+  <sections name="R_DTCtable">
+    <sectionAddress xsi:type="com.renesas.linkersection.model:FixedAddress" fixedAddress="62720"/>
+  </sections>
+  <sections name="PResetPRG">
+    <sectionAddress xsi:type="com.renesas.linkersection.model:FixedAddress" fixedAddress="4292870144"/>
+  </sections>
+  <sections name="H">
+    <sectionAddress xsi:type="com.renesas.linkersection.model:FixedAddress" fixedAddress="4292870400"/>
+  </sections>
+  <sections name="P*"/>
+  <sections name="C*"/>
+  <sections name="D*"/>
+  <sections name="W*"/>
+  <sections name="L"/>
+  <sections name="FIXEDVECT">
+    <sectionAddress xsi:type="com.renesas.linkersection.model:FixedAddress" fixedAddress="4294819792"/>
+  </sections>
+</com.renesas.linkersection.model:SectionContainer>

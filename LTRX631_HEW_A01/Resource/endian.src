@@ -1,0 +1,17 @@
+;------------------------------------------------------------------------
+;                                                                       |
+;   FILE        :endian.src                                             |
+;   DATE        :Oct 24, 2011                                           |
+;   DESCRIPTION :Symbol Definition                                      |
+;   CPU TYPE    :Other                                                  |
+;                                                                       |
+;------------------------------------------------------------------------
+; $Id: endian.src 143 2012-05-07 09:16:46Z tmura $
+
+    .GLB    SELECT_BIG_ENDIAN
+    .GLB    SELECT_LITTLE_ENDIAN
+    
+SELECT_BIG_ENDIAN       .equ    0FFFFFFF8h
+SELECT_LITTLE_ENDIAN    .equ    0FFFFFFFFh
+
+         .END
