@@ -4,7 +4,7 @@
 // FFFDBFD0 -> With Boot loader
 
 // FFE00000   2Mbytes
-// FFFFFFD0 -> Without Boot loader
+// FFFFFFD0 -> Without Boot loader.
 
 //#define PROG_EXT_FLASH
 
